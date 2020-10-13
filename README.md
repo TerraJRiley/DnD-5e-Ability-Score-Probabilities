@@ -5,12 +5,12 @@ You can find a full presentation of these results at: https://www.youtube.com/wa
 
 The related Tableau visualization: https://public.tableau.com/profile/terra1948#!/vizhome/DDAbilityScoreProbabilities/AbilityScoreProbs
 
-Future improvements & questions:
+Final Notes:
  - Primarily, I'd love feed back on the above youtube presentation.
-(Also, the tableau and github pieces of this project have a few more insights than the video.)
+ - Also, the tableau and github pieces of this project have a few more insights than the video.
  
 You can find me at:
-Github: https://github.com/TerraJRiley
-LinkedIn: https://www.linkedin.com/in/terra-j-riley/
-Tableau: https://public.tableau.com/profile/terra1948/
-Youtube: https://www.youtube.com/channel/UCnORTMC0xfh75fUejKIBWug
+ - Github: https://github.com/TerraJRiley
+ - LinkedIn: https://www.linkedin.com/in/terra-j-riley/
+ - Tableau: https://public.tableau.com/profile/terra1948/
+ - Youtube: https://www.youtube.com/channel/UCnORTMC0xfh75fUejKIBWug
